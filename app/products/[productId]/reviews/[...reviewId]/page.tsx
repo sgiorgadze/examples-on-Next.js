@@ -9,7 +9,7 @@ const page = ({
 
   return (
     <div>
-      Review {params.reviewId} for product {params.productId}
+      Reviewrr {params.reviewId} for product {params.productId}
     </div>
   );
 };
